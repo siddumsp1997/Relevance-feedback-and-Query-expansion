@@ -1,0 +1,246 @@
+Original query = 701  describe history oil industry
+Expanded query = 701  describe history oil industry describe oil history qaid contributes
+----------------------------------------------------------------------------------------------
+Original query = 702  pearl farming operations actual farming operations described culturing pearls japanese pearl productions status pearl farming production
+Expanded query = 702  pearl farming operations actual farming operations described culturing pearls japanese pearl productions status pearl farming production farming production operations agricultural industry
+----------------------------------------------------------------------------------------------
+Original query = 704  goals political views green party
+Expanded query = 704  goals political views green party farming production operations industry agricultural
+----------------------------------------------------------------------------------------------
+Original query = 705  identify efforts proposed undertaken world governments seek reduction iraqs foreign debt
+Expanded query = 705  identify efforts proposed undertaken world governments seek reduction iraqs foreign debt farming initiatives efforts operations progress
+----------------------------------------------------------------------------------------------
+Original query = 706  methods control type ii diabetes
+Expanded query = 706  methods control type ii diabetes farming initiatives efforts implications utilizing
+----------------------------------------------------------------------------------------------
+Original query = 707  evidence aspirin help prevent cancer
+Expanded query = 707  evidence aspirin help prevent cancer initiatives farming efforts implications promoting
+----------------------------------------------------------------------------------------------
+Original query = 708  sources slate stone decorative
+Expanded query = 708  sources slate stone decorative farming initiatives efforts targets utilizing
+----------------------------------------------------------------------------------------------
+Original query = 709  limits regulations concerning jockey weight horse racing
+Expanded query = 709  limits regulations concerning jockey weight horse racing farming initiatives efforts regarding brings
+----------------------------------------------------------------------------------------------
+Original query = 711  security measures employed train stations due heightened security concerns
+Expanded query = 711  security measures employed train stations due heightened security concerns regarding provide initiatives efforts progress
+----------------------------------------------------------------------------------------------
+Original query = 712  actual examples pyramid schemes
+Expanded query = 712  actual examples pyramid schemes regarding provide initiatives progress efforts
+----------------------------------------------------------------------------------------------
+Original query = 713  state maryland clean chesapeake bay
+Expanded query = 713  state maryland clean chesapeake bay regarding initiatives provide efforts progress
+----------------------------------------------------------------------------------------------
+Original query = 714  restrictions placed older persons renewing drivers licenses
+Expanded query = 714  restrictions placed older persons renewing drivers licenses provide regarding initiatives concerning efforts
+----------------------------------------------------------------------------------------------
+Original query = 715  organizations private governmental developing drugs combat schizophrenia
+Expanded query = 715  organizations private governmental developing drugs combat schizophrenia provide regarding initiatives efforts concerning
+----------------------------------------------------------------------------------------------
+Original query = 716  spammers arrested sued sending unsolicited e mail
+Expanded query = 716  spammers arrested sued sending unsolicited e mail regarding provide concerning initiatives efforts
+----------------------------------------------------------------------------------------------
+Original query = 722  ways iran support terrorism
+Expanded query = 722  ways iran support terrorism regarding provide concerning efforts initiatives
+----------------------------------------------------------------------------------------------
+Original query = 723  governments definition executive privilege
+Expanded query = 723  governments definition executive privilege regarding provide concerning initiatives efforts
+----------------------------------------------------------------------------------------------
+Original query = 724  iran contra scandal consequences
+Expanded query = 724  iran contra scandal consequences regarding provide concerning efforts initiatives
+----------------------------------------------------------------------------------------------
+Original query = 725  cause lowered white blood cell count
+Expanded query = 725  cause lowered white blood cell count regarding provide concerning efforts promoting
+----------------------------------------------------------------------------------------------
+Original query = 727  identify specific instances church arson
+Expanded query = 727  identify specific instances church arson regarding provide concerning efforts promoting
+----------------------------------------------------------------------------------------------
+Original query = 729  revelations whistle blowers concerning department defense
+Expanded query = 729  revelations whistle blowers concerning department defense regarding provide concerning efforts providing
+----------------------------------------------------------------------------------------------
+Original query = 730  possible complications potential dangers gastric bypass surgery
+Expanded query = 730  possible complications potential dangers gastric bypass surgery regarding provide concerning efforts relation
+----------------------------------------------------------------------------------------------
+Original query = 733  regulations regarding airline overbooking
+Expanded query = 733  regulations regarding airline overbooking regarding provide concerning relation efforts
+----------------------------------------------------------------------------------------------
+Original query = 735  condition afghan women better new government taliban
+Expanded query = 735  condition afghan women better new government taliban regarding provide concerning relation efforts
+----------------------------------------------------------------------------------------------
+Original query = 737  allegations made enrons culpability california energy crisis
+Expanded query = 737  allegations made enrons culpability california energy crisis regarding concerning provide efforts relation
+----------------------------------------------------------------------------------------------
+Original query = 738  examples anthrax hoaxes
+Expanded query = 738  examples anthrax hoaxes regarding concerning provide efforts relation
+----------------------------------------------------------------------------------------------
+Original query = 739  organization habitat humanity activities involved
+Expanded query = 739  organization habitat humanity activities involved regarding concerning provide efforts relation
+----------------------------------------------------------------------------------------------
+Original query = 740  regulates assisted living facilities maryland
+Expanded query = 740  regulates assisted living facilities maryland regarding concerning provide efforts initiatives
+----------------------------------------------------------------------------------------------
+Original query = 741  artificial intelligence
+Expanded query = 741  artificial intelligence regarding concerning provide efforts relation
+----------------------------------------------------------------------------------------------
+Original query = 743  regulations considerations concerning registering freighter country
+Expanded query = 743  regulations considerations concerning registering freighter country regarding concerning provide relation efforts
+----------------------------------------------------------------------------------------------
+Original query = 745  identify doomsday cult name location world
+Expanded query = 745  identify doomsday cult name location world regarding concerning provide relation initiatives
+----------------------------------------------------------------------------------------------
+Original query = 746  jobs outsourced india
+Expanded query = 746  jobs outsourced india regarding concerning provide initiatives relation
+----------------------------------------------------------------------------------------------
+Original query = 747  control oversight computer public libraries
+Expanded query = 747  control oversight computer public libraries regarding concerning provide initiatives efforts
+----------------------------------------------------------------------------------------------
+Original query = 749  people puerto rico state
+Expanded query = 749  people puerto rico state regarding concerning provide initiatives efforts
+----------------------------------------------------------------------------------------------
+Original query = 750  senator john edwards positions womens issues pay equity abortion title ix violence women
+Expanded query = 750  senator john edwards positions womens issues pay equity abortion title ix violence women regarding concerning initiatives provide efforts
+----------------------------------------------------------------------------------------------
+Original query = 751  give information scrabble players scrabble played popular
+Expanded query = 751  give information scrabble players scrabble played popular regarding concerning initiatives provide promoting
+----------------------------------------------------------------------------------------------
+Original query = 752  dams removed environmental impact
+Expanded query = 752  dams removed environmental impact regarding concerning initiatives provide efforts
+----------------------------------------------------------------------------------------------
+Original query = 753  programs schools prevent bullying students
+Expanded query = 753  programs schools prevent bullying students regarding concerning initiatives provide efforts
+----------------------------------------------------------------------------------------------
+Original query = 755  history location scottish highland games united states
+Expanded query = 755  history location scottish highland games united states regarding concerning initiatives provide efforts
+----------------------------------------------------------------------------------------------
+Original query = 757  show examples murals
+Expanded query = 757  show examples murals regarding concerning initiatives provide promoting
+----------------------------------------------------------------------------------------------
+Original query = 760  statistics regarding american muslims mosques schools
+Expanded query = 760  statistics regarding american muslims mosques schools regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 761  describe problems faced hmong immigrants united states
+Expanded query = 761  describe problems faced hmong immigrants united states regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 763  give information human deaths associated hunting game
+Expanded query = 763  give information human deaths associated hunting game regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 770  state kyrgyzstan united states relations
+Expanded query = 770  state kyrgyzstan united states relations regarding initiatives concerning efforts promoting
+----------------------------------------------------------------------------------------------
+Original query = 771  deformities found leopard frogs
+Expanded query = 771  deformities found leopard frogs regarding initiatives concerning efforts promoting
+----------------------------------------------------------------------------------------------
+Original query = 772  rules guidelines display united states flag
+Expanded query = 772  rules guidelines display united states flag regarding initiatives concerning efforts promoting
+----------------------------------------------------------------------------------------------
+Original query = 776  magnet schools considered successful districts created
+Expanded query = 776  magnet schools considered successful districts created regarding initiatives concerning promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 782  varieties oranges season
+Expanded query = 782  varieties oranges season regarding initiatives concerning promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 792  social security means test
+Expanded query = 792  social security means test regarding initiatives concerning efforts promoting
+----------------------------------------------------------------------------------------------
+Original query = 794  pets animals therapy humans benefits
+Expanded query = 794  pets animals therapy humans benefits regarding initiatives concerning promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 795  reference notable cockers spaniels
+Expanded query = 795  reference notable cockers spaniels regarding initiatives concerning promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 798  history development locations textile mills massachusetts
+Expanded query = 798  history development locations textile mills massachusetts regarding initiatives concerning promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 801  describe origin nature extent spread means controlling kudzu
+Expanded query = 801  describe origin nature extent spread means controlling kudzu regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 802  impact volcano eruptions global temperature
+Expanded query = 802  impact volcano eruptions global temperature regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 804  describe resolutions proposed legislation passed ban cloning humans rationale bans
+Expanded query = 804  describe resolutions proposed legislation passed ban cloning humans rationale bans regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 806  doctors borders medecins sans frontieres
+Expanded query = 806  doctors borders medecins sans frontieres regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 808  information available involvement north korean government counterfeiting currency
+Expanded query = 808  information available involvement north korean government counterfeiting currency regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 810  information regarding timeshare resales
+Expanded query = 810  information regarding timeshare resales regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 811  state recognizing handwritten inputs computers
+Expanded query = 811  state recognizing handwritten inputs computers regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 812  conditions lead doctors recommend total knee replacement surgery complications result surgery
+Expanded query = 812  conditions lead doctors recommend total knee replacement surgery complications result surgery regarding concerning initiatives promoting efforts
+----------------------------------------------------------------------------------------------
+Original query = 816  describe efforts made usaid protect biodiversity galapagos islands ecuador
+Expanded query = 816  describe efforts made usaid protect biodiversity galapagos islands ecuador regarding concerning initiatives efforts promoting
+----------------------------------------------------------------------------------------------
+Original query = 817  naming rights sports stadiums acquired
+Expanded query = 817  naming rights sports stadiums acquired regarding concerning initiatives efforts promoting
+----------------------------------------------------------------------------------------------
+Original query = 818  known culture history chaco people features chaco culture national historic park
+Expanded query = 818  known culture history chaco people features chaco culture national historic park regarding concerning initiatives promoting hence
+----------------------------------------------------------------------------------------------
+Original query = 820  imported fire ants controlled
+Expanded query = 820  imported fire ants controlled regarding concerning initiatives promoting hence
+----------------------------------------------------------------------------------------------
+Original query = 821  describe work home scams promoted internet
+Expanded query = 821  describe work home scams promoted internet regarding initiatives concerning promoting hence
+----------------------------------------------------------------------------------------------
+Original query = 822  give history battle big horn june 25 26 1876 referred custers stand
+Expanded query = 822  give history battle big horn june 25 26 1876 referred custers stand regarding initiatives concerning hence promoting
+----------------------------------------------------------------------------------------------
+Original query = 824  current role civil air patrol training participants receive
+Expanded query = 824  current role civil air patrol training participants receive regarding initiatives concerning promoting hence
+----------------------------------------------------------------------------------------------
+Original query = 825  describe deployment national guard units iraq
+Expanded query = 825  describe deployment national guard units iraq initiatives regarding concerning hence promoting
+----------------------------------------------------------------------------------------------
+Original query = 826  relationship seminole indians florida
+Expanded query = 826  relationship seminole indians florida initiatives regarding concerning hence promoting
+----------------------------------------------------------------------------------------------
+Original query = 829  information kinds material international support provided side spanish civil war
+Expanded query = 829  information kinds material international support provided side spanish civil war initiatives regarding concerning hence promoting
+----------------------------------------------------------------------------------------------
+Original query = 830  locate past present model railroad layouts
+Expanded query = 830  locate past present model railroad layouts initiatives regarding concerning hence utilizing
+----------------------------------------------------------------------------------------------
+Original query = 831  describe security measures dulles international airport virginia
+Expanded query = 831  describe security measures dulles international airport virginia initiatives regarding concerning hence utilizing
+----------------------------------------------------------------------------------------------
+Original query = 834  global positioning system gps research monitoring earthquakes
+Expanded query = 834  global positioning system gps research monitoring earthquakes initiatives hence regarding utilizing concerning
+----------------------------------------------------------------------------------------------
+Original query = 835  bostons central artery project known big dig characterized pork
+Expanded query = 835  bostons central artery project known big dig characterized pork initiatives hence utilizing regarding considers
+----------------------------------------------------------------------------------------------
+Original query = 836  level wages paid illegal immigrants
+Expanded query = 836  level wages paid illegal immigrants initiatives hence utilizing regarding considers
+----------------------------------------------------------------------------------------------
+Original query = 837  information pre 1500 history eskimo inuit people
+Expanded query = 837  information pre 1500 history eskimo inuit people initiatives hence utilizing considers concerning
+----------------------------------------------------------------------------------------------
+Original query = 838  humans responded respond appearance coyotes urban suburban areas
+Expanded query = 838  humans responded respond appearance coyotes urban suburban areas initiatives hence utilizing regarding considers
+----------------------------------------------------------------------------------------------
+Original query = 841  information camels north america prehistoric modern times
+Expanded query = 841  information camels north america prehistoric modern times hence initiatives utilizing considers concerning
+----------------------------------------------------------------------------------------------
+Original query = 843  pol pot did
+Expanded query = 843  pol pot did hence initiatives utilizing considers concerning
+----------------------------------------------------------------------------------------------
+Original query = 846  describe evidence heredity play role obesity
+Expanded query = 846  describe evidence heredity play role obesity hence initiatives utilizing considers promoting
+----------------------------------------------------------------------------------------------
+Original query = 847  role portugal world war ii
+Expanded query = 847  role portugal world war ii hence initiatives utilizing considers promoting
+----------------------------------------------------------------------------------------------
+Original query = 849  scalable vector graphics
+Expanded query = 849  scalable vector graphics hence initiatives utilizing considers promoting
+----------------------------------------------------------------------------------------------
+Original query = 850  frequently mississippi river flood banks
+Expanded query = 850  frequently mississippi river flood banks hence initiatives utilizing considers promoting
+----------------------------------------------------------------------------------------------
